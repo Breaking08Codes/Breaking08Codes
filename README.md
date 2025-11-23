@@ -1,9 +1,15 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Breaking08Codes/Breaking08Codes/main/banner.png" width="100%" alt="Banner">
+</p>
+
 <!-- Header -->
 <h1 align="center">
-  Hi there, I'm Yash Kumar! <img src="https://raw.githubusercontent.com/Breaking08Codes/Breaking08Codes/main/wave.gif" width="40px">
+  Hi there, I'm Yash Kumar! 
+  <img src="https://raw.githubusercontent.com/Breaking08Codes/Breaking08Codes/main/wave.gif" width="40px">
 </h1>
 
-<h3 align="center">Passionate Developer | Java • Spring Boot • AI • Backend</h3>
+<h3 align="center">Passionate Developer • Java • Spring Boot • AI • Backend</h3>
 
 <!-- Typing Animation -->
 <p align="center">
@@ -21,52 +27,97 @@
 
 ---
 
-## 🚀 About Me
-- 🎓 B.Tech CSE @ VIT Chennai  
-- 💻 Focused on Backend Development  
-- 🤖 Exploring AI + Machine Learning  
-- 🧠 Love solving problems & building real apps  
-- 🚀 Always learning & experimenting  
+## 🧑‍💻 Who Am I?
+
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🎓 B.Tech CSE @ VIT Chennai</li>
+        <li>☕ Java & Spring Boot Developer</li>
+        <li>🤖 AI + ML Learner</li>
+        <li>⚙️ Backend Engineering & REST APIs</li>
+        <li>🚀 Love building real-world applications</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275b8a8a49.gif" width="250">
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+# 🎭 Role Sections (GIF Based)
 
-### **Languages**
-- Java  
-- Python  
-- C  
-- JavaScript  
+### 👨‍💻 Backend Developer  
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px">
 
-### **Backend**
-- Spring Boot  
-- REST APIs  
-
-### **Databases**
-- MySQL  
-- PostgreSQL  
-
-### **Tools**
-- Git & GitHub  
-- IntelliJ IDEA  
-- VS Code  
-- Postman  
-
+### 🤖 AI & ML Enthusiast  
+<img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="400px">
 
 ---
 
-## 🎨 Animated Skills Icons  
+# 🛠️ Tech Stack (Badges)
+
+### Languages  
+![Java](https://img.shields.io/badge/Java-orange?logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-grey?logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
+
+### Backend  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-grey?logo=api&logoColor=white)
+
+### Databases  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+
+### Tools  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-orange?logo=postman&logoColor=white)
+
+---
+
+# 🎨 Animated Skill Icons  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,py,js,react,git,github,mysql,postgres,vscode,idea&theme=dark" />
 </p>
 
 ---
 
-## 🐍 GitHub Contribution Snake Animation
+# 🌍 Visitor World Map  
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Breaking08Codes&icon=0&color=12" />
+</p>
+
+---
+
+# 💬 Dynamic Developer Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+</p>
+
+---
+
+# 🐍 GitHub Contribution Snake Animation
 <p align="center">
   <img src="https://raw.githubusercontent.com/Breaking08Codes/Breaking08Codes/output/snake.svg" />
 </p>
 
+---
+
+# 💡 Light / Dark Mode Auto-Responsive Badges
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Mode-Dark-000000?logo=github&logoColor=white">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Mode-Light-FFFFFF?logo=github&logoColor=000">
+  <img alt="mode-badge" src="https://img.shields.io/badge/Mode-Device-333333">
+</picture>
 
 ---
 
