@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Breaking08Codes/Breaking08Codes/main/banner.png" width="100%" alt="Banner">
+  <img src="https://source.unsplash.com/1600x400/?dark,code,technology" width="100%" />
 </p>
+
 
 <!-- Header -->
 <h1 align="center">
