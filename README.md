@@ -64,8 +64,9 @@
 
 ## 🐍 GitHub Contribution Snake Animation
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Breaking08Codes/Breaking08Codes/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Breaking08Codes/Breaking08Codes/output/snake.svg" />
 </p>
+
 
 ---
 
