@@ -1,9 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://api.codetabs.com/v1/proxy?quest=https://source.unsplash.com/1600x400/?technology,coding,developer" width="100%" />
-</p>
-
-
 <!-- Header -->
 <h1 align="center">
   Hi there, I'm Yash Kumar! 
@@ -30,32 +24,25 @@
 
 ## 🧑‍💻 Who Am I?
 
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li>🎓 B.Tech CSE @ VIT Chennai</li>
-        <li>☕ Java & Spring Boot Developer</li>
-        <li>🤖 AI + ML Learner</li>
-        <li>⚙️ Backend Engineering & REST APIs</li>
-        <li>🚀 Love building real-world applications</li>
-      </ul>
-    </td>
-    <td>
-      <img src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275b8a8a49.gif" width="250">
-    </td>
-  </tr>
-</table>
+- 🎓 B.Tech CSE @ VIT Chennai  
+- ☕ Java & Spring Boot Developer  
+- 🤖 AI + ML Learner  
+- ⚙️ Backend Engineering & REST APIs  
+- 🚀 Love building real-world applications  
 
 ---
 
 # 🎭 Role Sections (GIF Based)
 
 ### 👨‍💻 Backend Developer  
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px">
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px">
+</p>
 
 ### 🤖 AI & ML Enthusiast  
-<img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="400px">
+<p align="center">
+  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="500px">
+</p>
 
 ---
 
@@ -91,7 +78,7 @@
 
 ---
 
-# 🌍 Visitor World Map  
+# 🌍 Visitor Counter
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Breaking08Codes&icon=0&color=12" />
 </p>
@@ -109,16 +96,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Breaking08Codes/Breaking08Codes/output/snake.svg" />
 </p>
-
----
-
-# 💡 Light / Dark Mode Auto-Responsive Badges
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Mode-Dark-000000?logo=github&logoColor=white">
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Mode-Light-FFFFFF?logo=github&logoColor=000">
-  <img alt="mode-badge" src="https://img.shields.io/badge/Mode-Device-333333">
-</picture>
 
 ---
 
