@@ -76,12 +76,6 @@
   <img src="https://skillicons.dev/icons?i=java,spring,py,js,react,git,github,mysql,postgres,vscode,idea&theme=dark" />
 </p>
 
----
-
-# 🌍 Visitor Counter
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Breaking08Codes&icon=0&color=12" />
-</p>
 
 ---
 
